@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://nathhh86.github.io
+title: nathhh86
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
